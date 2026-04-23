@@ -3,14 +3,14 @@ Icarus est un projet créé durant le Web Basement (HTML) 2026 de la Haute-Écol
 
 Nous démarrions aussi avec rien. En effet, par défaut nous devions utiliser le clavier visuel de notre ordinateur, le bloc notes intégré à ce dernier et nous avions l'interdiction d'utiliser quelconque autre logiciel ou webapp disponible sur Internet. Afin de les débloquer, nous recevions périodiquement des jetons à dépenser dans un magasin, nous permettant également de débloquer le clavier physique de notre ordinateur, Figma, VS Code, Unsplash, un site de fonts, ...
 ## Les membres
-Ce projet a été créé par trois personnes avec chacun un rôle distinct afin d'être sur tous les fronts durant la journée &nbsp;:
+Ce projet a été créé par trois personnes avec chacun un rôle distinct afin d'être sur tous les fronts durant la journée&nbsp;:
 - Arthur Halbart : direction artistique et design ;
 - Lucas Labiouse : écriture et maquettage sur Figma ;
 - Gabriel Manciu : intégration de la maquette.
 ## L'histoire
 L'histoire que nous avons choisie est celle d'Icare, qui pouvait très bien se prêter à un monde se déroulant dans le futur.
 ## Un défi supplémentaire
-Au delà de n'avoir eu qu'une journée pour choisir une direction artistique, écrire l'histoire, designer un site et l'intégrer, nous avons eu également aussi notre lot de malus qui se sont ajoutés durant la journée. Ces malus étaient décidés grâce à un lancé de dé 20. La liste de nos malus est la suivante &nbsp;: 
+Au delà de n'avoir eu qu'une journée pour choisir une direction artistique, écrire l'histoire, designer un site et l'intégrer, nous avons eu également aussi notre lot de malus qui se sont ajoutés durant la journée. Ces malus étaient décidés grâce à un lancé de dé 20. La liste de nos malus est la suivante&nbsp;: 
 - Nous devions inclure un flashback dans l'histoire d'Icare ;
 - Un bisounours devait obligatoirement être présent dans notre histoire ;
 - Nous avions une police d'écriture imposée pour notre éditeur de code : la [Kobata](https://www.tunera.xyz/fonts/kobata/) ;
