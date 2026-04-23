@@ -1,0 +1,38 @@
+body{margin:0;border:solid 1px white;background-color: #585858;font-family: "aboreto", sans-serif;font-weight: 400;font-style: normal;overflow-x: hidden;}
+.hero{background-image:url(/images/hero.png);width:calc(100% - 30px);height:calc(100vh - 30px);background-repeat:no-repeat;border:solid 15px #F7BD57;background-position: center;background-size: cover;position: relative;}
+.hero::after{content:"";width: calc(100% + 30px);height: 4rem;position: absolute;bottom: -2rem;left: -15px;background-color: white;z-index: 9;}
+.icarus{position: absolute;top: 50%;left: 50%;transform: translate(-50%,-50%);}
+.icarus-statue{position: absolute;top:80%;left: 50%;transform: translate(-50%,-50%);border:solid 1px white;z-index: 10;}
+.intro{border: solid 1px white;padding-top: 50vh;p{font-size: 24px;border: 1px solid white;color: white;padding: 1rem;}}
+.intro-text{margin:0px 80px; display: grid;grid-template-columns: repeat(2, 1fr);gap: 8px;padding-bottom: 40vh;}
+.intro__p-1{max-width: 55ch;}
+.intro__p-2{max-width: 55ch;grid-column-start: 2;grid-row-start: 2;margin-top: 240px;}
+.intro-images{background-image: url(/images/IMGG_2\ 1.png);background-position: center;background-size: cover;background-repeat: no-repeat;width: 100%;height: 432px;position: relative;border:solid 1px white}
+.intro-images__left{position: absolute;left: -10px;top: -50%;border:solid 1px white}
+.intro-images__right{position: absolute;right: -10px;top: -10px;border:solid 1px white}
+.section2{position: relative;display: flex;flex-direction: column;gap: 4rem;align-items: center;padding: 40vh 0;}
+.section2__main1{position: absolute;left: -107px;border:solid 1px white;transform: rotate(-8.83deg);}
+.section2__main2{position: absolute;right: -170px;border:solid 1px white;transform: rotate(21.3deg);}
+.section2-text{text-align: center;max-width: 60ch;padding: 0 4rem;font-size: 24px;color: white;}
+.section2-text p{border: solid 1px white;}
+.section2-text1{margin-top: 30vh;}
+.section3{border: solid 1px white;padding: 0 80px;}
+.section3__image{width: 100%;position: relative;padding: 1rem;border: solid 1px white;}
+.section3__image::after{content:"";position: absolute;top: -436px;right: -560px;width: 100%;height: 100%;background-image: url(/images/Nuage_02\ 2.png);border: solid 1px white;z-index: -1;}
+.section3__img {width: 100%;}
+.section3-text1{max-width: 50ch;padding: 1rem;font-size: 24px;color: white;border: solid 1px white;margin-bottom: 96px;}
+.section3-grid{display: grid;grid-template-columns: repeat(2, 1fr);grid-template-rows: repeat(1, 1fr);gap: 8px;}
+.section4{border: solid 1px white;padding: 0 80px;}
+.section4-text1{max-width: 50ch;padding: 1rem;font-size: 24px;color: white;border: solid 1px white;margin-bottom: 96px;}
+.section4-grid{display: grid;grid-template-columns: repeat(2, 1fr);grid-template-rows: repeat(1, 1fr);gap: 8px;grid-column-start: 2;}
+.section4__image{width: 75%;position: relative;padding: 1rem;border: solid 1px white;margin: auto;}
+.section4__img {width: 100%;}
+.section5{border: solid 1px white;padding: 0 80px;}
+.section5-text1{max-width: 50ch;padding: 1rem;font-size: 24px;color: white;border: solid 1px white;margin-bottom: 96px;}
+.section5-grid{display: grid;grid-template-columns: repeat(2, 1fr);grid-template-rows: repeat(1, 1fr);gap: 8px;grid-column-start: 2;}
+.section5__image{width: 75%;position: relative;padding: 1rem;border: solid 1px white;margin: auto;}
+.section5__img {width: 100%;}
+
+.end{background-image:url(/images/vague.png);width:100%;height:100vh;background-repeat:no-repeat;border:solid 1px #ffffff;background-position: center;background-size: cover;position: relative;}
+.icarus-end{position: absolute;top: 50%;left: 50%;transform: translate(-50%,-50%);}
+.icarus-statue-end{position: absolute;top:50px;left: 50%;transform: translate(-50%,-50%);border:solid 1px white;z-index: 10;}
